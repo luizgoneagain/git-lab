@@ -4,8 +4,6 @@ Quando você cria um repositório, o Git precisa nomear a primeira branch. Esse 
 
 Em 2020, a Software Freedom Conservancy (organização sem fins lucrativos que abriga projetos de software livre, e que hospeda o próprio Git) pediu a mudança do termo, reconhecendo que o nome inicial master ofende algumas pessoas.
 
-LKKKKKKKKKKK
-
 # organização de itens
 ## .git
 
